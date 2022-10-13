@@ -1,0 +1,31 @@
+{
+  "name": "one_force_assessment",
+  "version": "1.0.0",
+  "description": "assessment for interview of oneforece nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitansh Gor",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "email-templates": "^8.0.9",
+    "express": "^4.17.3",
+    "googleapis": "^99.0.0",
+    "handlebars": "^4.7.7",
+    "isomorphic-fetch": "^3.0.0",
+    "jade": "^1.11.0",
+    "mongoose": "^6.2.3",
+    "multer": "^1.4.4",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.7",
+    "nodemailer": "^6.7.2",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
